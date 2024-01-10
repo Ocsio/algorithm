@@ -1,5 +1,6 @@
 package cn.ocsio.leetcode.c01;
 
+// https://leetcode.cn/problems/sqrtx/description/
 public class E0069_mySqrt {
     public static void main(String[] args) {
         int x = 2147395599;

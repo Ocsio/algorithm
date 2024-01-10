@@ -2,6 +2,7 @@ package cn.ocsio.leetcode.c01;
 
 import java.util.Arrays;
 
+// https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 public class E0034_searchRange {
     public static void main(String[] args) {
         int[] nums = {5, 7, 7, 8, 8, 10};

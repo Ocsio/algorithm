@@ -1,5 +1,6 @@
 package cn.ocsio.leetcode.c01;
 
+// https://leetcode.cn/problems/search-insert-position/description/
 public class E0035_searchInsert {
     public static void main(String[] args) {
         int[] nums = {1, 3, 5, 6};

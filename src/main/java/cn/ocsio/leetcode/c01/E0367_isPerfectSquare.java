@@ -1,5 +1,6 @@
 package cn.ocsio.leetcode.c01;
 
+// https://leetcode.cn/problems/valid-perfect-square/description/
 public class E0367_isPerfectSquare {
     public static void main(String[] args) {
         int num = 16;
