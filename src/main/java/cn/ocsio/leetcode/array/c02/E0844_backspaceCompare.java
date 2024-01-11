@@ -1,4 +1,4 @@
-package cn.ocsio.leetcode.c02;
+package cn.ocsio.leetcode.array.c02;
 
 // https://leetcode.cn/problems/backspace-string-compare/
 public class E0844_backspaceCompare {

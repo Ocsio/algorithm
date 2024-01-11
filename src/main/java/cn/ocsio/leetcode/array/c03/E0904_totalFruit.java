@@ -1,4 +1,4 @@
-package cn.ocsio.leetcode.c03;
+package cn.ocsio.leetcode.array.c03;
 
 import java.util.HashMap;
 

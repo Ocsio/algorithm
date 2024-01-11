@@ -1,4 +1,4 @@
-package cn.ocsio.leetcode.c01;
+package cn.ocsio.leetcode.array.c01;
 
 // https://leetcode.cn/problems/binary-search/description/
 public class E0704_search {

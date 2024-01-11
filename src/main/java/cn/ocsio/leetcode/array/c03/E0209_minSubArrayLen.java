@@ -1,4 +1,4 @@
-package cn.ocsio.leetcode.c03;
+package cn.ocsio.leetcode.array.c03;
 
 public class E0209_minSubArrayLen {
     public static void main(String[] args) {

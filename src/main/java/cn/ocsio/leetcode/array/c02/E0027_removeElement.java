@@ -1,4 +1,4 @@
-package cn.ocsio.leetcode.c02;
+package cn.ocsio.leetcode.array.c02;
 
 import java.util.Arrays;
 

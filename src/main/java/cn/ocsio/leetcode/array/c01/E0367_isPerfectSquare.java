@@ -1,4 +1,4 @@
-package cn.ocsio.leetcode.c01;
+package cn.ocsio.leetcode.array.c01;
 
 // https://leetcode.cn/problems/valid-perfect-square/description/
 public class E0367_isPerfectSquare {
